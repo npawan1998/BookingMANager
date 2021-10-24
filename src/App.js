@@ -16,7 +16,10 @@ class App extends Component{
         <SideNav />
       </div>
       <div className="mainContent">
-      <button type="button" class="btn btn-primary">Primary</button>
+            <button type="button" class="btn btn-primary">Primary</button>
+            <button type="button" class="btn btn-primary">Secondary</button>
+            <button type="button" class="btn btn-primary">Tertiary</button>
+            <button type="button" class="btn btn-primary">Close</button>
       </div>
       </div>
     </div>
