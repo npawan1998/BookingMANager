@@ -16,7 +16,7 @@ class App extends Component{
         <SideNav />
       </div>
       <div className="mainContent">
-       body
+      <button type="button" class="btn btn-primary">Primary</button>
       </div>
       </div>
     </div>
